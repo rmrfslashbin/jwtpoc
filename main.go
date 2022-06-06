@@ -21,7 +21,7 @@ THE SOFTWARE.
 */
 package main
 
-import "githug.com/rmrfslashbin/jwtpoc/cmd"
+import "github.com/rmrfslashbin/jwtpoc/cmd"
 
 func main() {
 	cmd.Execute()

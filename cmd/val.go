@@ -28,7 +28,7 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
-	"githug.com/rmrfslashbin/jwtpoc/pkg/jwtpoc"
+	"github.com/rmrfslashbin/jwtpoc/pkg/jwtpoc"
 )
 
 // valCmd represents the val command
